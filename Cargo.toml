@@ -1,0 +1,8 @@
+[package]
+name = "website-rocket"
+version = "0.1.0"
+authors = ["Clement Miao <clementmiao@gmail.com>"]
+
+[dependencies]
+rocket = "0.2.0"
+rocket_codegen = "0.2.0"
